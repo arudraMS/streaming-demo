@@ -8,7 +8,8 @@
         "Table": "sensordata",
         "MaxBatchCount": 10000,
         "MaxWriterCount": 1,
-        "Password": null
+        "Password": null,
+        "AuthenticationMode": "ConnectionString"
     },
     "DataSourceCredentialDomain": null,
     "ScriptType": "Output"

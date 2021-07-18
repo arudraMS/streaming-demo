@@ -7,7 +7,8 @@
         "SharedAccessPolicyName": "listenerpolicy",
         "EventHubName": "streaming",
         "ConsumerGroupName": "streamanalytics",
-        "SharedAccessPolicyKey": null
+        "SharedAccessPolicyKey": null,
+        "AuthenticationMode": "ConnectionString"
     },
     "PartitionKey": null,
     "DataSourceCredentialDomain": "fe53b05b-21da-442c-bd40-b2e6054904e7.StreamAnalystics",

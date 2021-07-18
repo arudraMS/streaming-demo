@@ -1,0 +1,12 @@
+Concatenated connection strings:
+HostName=atnstreamiothub.azure-devices.net;DeviceId=device-01;SharedAccessKey=1lXY84kjdPx0rGIRfjoD76KboNJ39pUBFWPG2uw8s7c=, HostName=atnstreamiothub.azure-devices.net;DeviceId=device-02;SharedAccessKey=v0c4PLuV8KTJu6vsf8xOincdUWpT+vw96BVG9m7qt5g=
+
+
+
+Eventhub compatible end point:
+Endpoint=sb://iothub-ns-atnstreami-13289652-44d5640a0e.servicebus.windows.net/;SharedAccessKeyName=iothubowner;SharedAccessKey=eNIrfd8EEwtRd/gVQzPTkbTbfD3wtA8o7oOzGJ4V7lU=;EntityPath=atnstreamiothub
+
+Endpoint=sb://iothub-ns-atnstreami-13289652-44d5640a0e.servicebus.windows.net/;SharedAccessKeyName=iothubowner;SharedAccessKey=eNIrfd8EEwtRd/gVQzPTkbTbfD3wtA8o7oOzGJ4V7lU=;EntityPath=atnstreamiothub
+
+storage end point: 
+https://atnstreamanalytics.blob.core.windows.net/demo
